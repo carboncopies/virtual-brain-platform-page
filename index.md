@@ -1,5 +1,3 @@
-## Welcome to the Virtual Brain Platform page
-
 This is the webpage for the Virtual Brain Platform research project developed by the Carboncopies Foundation. The VBP consists of a software framework that is being designed to facilitate the development of new neuromimetic prostheses.
 
 ### About the Carboncopies Foundation
